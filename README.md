@@ -5,5 +5,5 @@
 4. Have calpgs directory at the working directory at https://github.com/KangchengHou/calpred-manuscript?tab=readme-ov-file
 
 ## Files
-simulation_wocontext.ipynb -- replicate analysis in Figure 1 \n
+simulation_wocontext.ipynb -- replicate analysis in Figure 1 \\
 simulation_wcontext.ipynb -- replicate analysis in Figure 1 
