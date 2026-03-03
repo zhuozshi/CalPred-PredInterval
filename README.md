@@ -4,5 +4,7 @@
 3. Install CalPred at https://github.com/KangchengHou/calpred
 
 ## Files
-simulation_wocontext.ipynb -- replicate analysis in Figure 1 \
-simulation_wcontext.ipynb -- replicate analysis in Figure 2
+simulation_wocontext.ipynb -- replicate analysis in Figure 1. For full details and data, see Zenodo. \
+simulation_wcontext.ipynb -- replicate analysis in Figure 2. For full details and data, see Zenodo. \
+plot_wocontext.ipynb -- plot Figure 1 with all summary-level results. \
+plot_wcontext.ipynb -- plot Figure 2 with all summary-level results. \
