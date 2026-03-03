@@ -1,3 +1,5 @@
+This repository is mainly for plotting with summary data. For replication of simulation, see Zenodo.
+
 # Prerequisite 
 1. Install PLINK2 at https://www.cog-genomics.org/plink/2.0/
 2. Install PRS-CS at https://github.com/getian107/PRScs
